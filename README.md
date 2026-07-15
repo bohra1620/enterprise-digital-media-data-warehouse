@@ -19,7 +19,6 @@ With a background spanning from IT service operations to advanced data engineeri
 
 I hold an MBA in Data Science and Analytics and am constantly exploring new ways to optimize data workflows and automate complex business logic.
 
-📫 **Let's Connect!**
+**Let's Connect!**
 I'm always open to discussing data architecture, SQL optimization, and analytics. 
-
 * [Connect with me on LinkedIn] -> https://www.linkedin.com/in/karanjain1620/
