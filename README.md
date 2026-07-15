@@ -11,4 +11,15 @@ Built an automated, scalable data warehouse to centralize digital media performa
 4. Gold Layer (Business): Star schema dimensional modeling (lower_snake naming convention) optimized for BI tools.
 
 # About Me
-LinkedIn - https://www.linkedin.com/in/karanjain1620/
+Hi, I'm **Karan Jain** 👋 
+
+I am a Senior Data Analyst and Data Manager specializing in building scalable data architectures, enterprise data warehouses, and automated reporting pipelines. Currently, I work at Dentsu, where I design end-to-end data solutions like this Medallion architecture to transform raw digital media data into actionable business intelligence. 
+
+With a background spanning from IT service operations to advanced data engineering and analytics, I am passionate about bridging the gap between messy source data and clean, high-performance dashboards. My core stack includes SQL Server, Power BI, Advanced Excel (VBA/Macros), and IBM enterprise tools (Planning Analytics & Cognos).
+
+I hold an MBA in Data Science and Analytics and am constantly exploring new ways to optimize data workflows and automate complex business logic.
+
+📫 **Let's Connect!**
+I'm always open to discussing data architecture, SQL optimization, and analytics. 
+
+* [Connect with me on LinkedIn] -> https://www.linkedin.com/in/karanjain1620/
