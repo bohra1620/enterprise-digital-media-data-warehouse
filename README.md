@@ -11,4 +11,4 @@ Built an automated, scalable data warehouse to centralize digital media performa
 4. Gold Layer (Business): Star schema dimensional modeling (lower_snake naming convention) optimized for BI tools.
 
 # About Me
-Hi My Name is Karan, you can connect with my via linkedin - https://www.linkedin.com/in/karanjain1620/
+LinkedIn - https://www.linkedin.com/in/karanjain1620/
