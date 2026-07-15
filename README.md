@@ -10,6 +10,9 @@ Built an automated, scalable data warehouse to centralize digital media performa
 3. Silver Layer (Cleansed): Data type casting, deduplication, NULL handling, string standardization, and uniform metric aggregation.
 4. Gold Layer (Business): Star schema dimensional modeling (lower_snake naming convention) optimized for BI tools.
 
+# Data Architecture
+(docs/Data Architecture.png)
+
 # About Me
 Hi, I'm **Karan Jain** 👋 
 
